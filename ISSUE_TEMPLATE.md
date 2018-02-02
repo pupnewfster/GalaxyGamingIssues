@@ -9,4 +9,6 @@ Replace this line with the description of the issue, including any relevant erro
 - [ ] Prop Hunt
 - [ ] TeamSpeak
 - [ ] Website
+- [ ] Discord
+- [ ] Slack
 - [ ] Other please specify:
