@@ -10,5 +10,4 @@ Replace this line with the description of the issue, including any relevant erro
 - [ ] TeamSpeak
 - [ ] Website
 - [ ] Discord
-- [ ] Slack
 - [ ] Other please specify:
