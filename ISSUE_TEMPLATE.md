@@ -5,8 +5,8 @@ Replace this line with the description of the issue, including any relevant erro
 
 ## Server, select all that apply
 
-- [ ] TTT MC
 - [ ] Prop Hunt
+- [ ] AutismRP
 - [ ] TeamSpeak
 - [ ] Website
 - [ ] Discord
