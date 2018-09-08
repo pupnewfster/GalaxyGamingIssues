@@ -7,6 +7,7 @@ Replace this line with the description of the issue, including any relevant erro
 
 - [ ] Prop Hunt
 - [ ] AutismRP
+- [ ] TTT
 - [ ] TeamSpeak
 - [ ] Website
 - [ ] Discord
